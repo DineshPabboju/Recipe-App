@@ -23,7 +23,7 @@ A dynamic and user-friendly recipe application that allows users to search, view
 
 ## 🎥 Video Demo
 
-📽️ [Click here to watch the demo video](preview/recipeappDemo.mp4)
+>📽️ [Click here to watch the demo video](preview/recipeappDemo.mp4)
 
 
 
@@ -57,33 +57,48 @@ Recipe-App/
 └── README.md               # Project overview
 You can directly open index.html with any browser or use a live server extension in VS Code.
 ```
+## 🧪 Usage
 
-**🧪 Usage**
-Type a recipe name or ingredient in the search bar.
+1. Type a recipe name or ingredient in the search bar.
+2. View the list of matching recipes.
+3. Click on any recipe to see:
+   - Full recipe details
+   - Ingredients
+   - Instructions
 
-Click on any recipe to view full details.
+---
 
-**💡 Future Enhancements**
-User authentication for personalized experience
+## 💡 Future Enhancements
 
-Upload and manage custom recipes
+- 🔐 User authentication for a personalized experience
+- 📤 Upload and manage custom user recipes
+- 🌙 Dark mode toggle
+- 🧭 Filter recipes by:
+  - Category (e.g., vegetarian, dessert)
+  - Region (e.g., Italian, Indian)
 
-Dark mode toggle
+---
 
-Filter recipes by category or region
+## 🤝 Contributing
 
-**🤝 Contributing**
-Contributions are welcome! If you'd like to improve this project:
+Contributions are always welcome!
 
-**Fork the repository**
+To contribute:
 
-Create a new branch (git checkout -b feature-name)
+1. **Fork** this repository
+2. **Create a new branch**  
+   ```bash
+   git checkout -b feature-name
+   ```
+3. **Make your changes**
 
-Make your changes
+4. **Commit and push**
+   ```bash
+   git commit -m "Add feature"
+   git push origin feature-name
+   ```
+5. **Create a Pull Request**
 
-Commit and push (git commit -m 'Add feature' && git push)
+## 📄 License
+- This project is open-source and available under the MIT License.
 
-Create a Pull Request
-
-**📄 License**
-This project is open-source and available under the MIT License.
