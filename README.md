@@ -58,14 +58,12 @@ Recipe-App/
 You can directly open index.html with any browser or use a live server extension in VS Code.
 ```
 
-🧪 Usage
+**🧪 Usage**
 Type a recipe name or ingredient in the search bar.
 
 Click on any recipe to view full details.
 
-Click the ❤️ icon to add recipes to your favorites list.
-
-💡 Future Enhancements
+**💡 Future Enhancements**
 User authentication for personalized experience
 
 Upload and manage custom recipes
@@ -74,10 +72,10 @@ Dark mode toggle
 
 Filter recipes by category or region
 
-🤝 Contributing
+**🤝 Contributing**
 Contributions are welcome! If you'd like to improve this project:
 
-Fork the repository
+**Fork the repository**
 
 Create a new branch (git checkout -b feature-name)
 
@@ -87,5 +85,5 @@ Commit and push (git commit -m 'Add feature' && git push)
 
 Create a Pull Request
 
-📄 License
+**📄 License**
 This project is open-source and available under the MIT License.
